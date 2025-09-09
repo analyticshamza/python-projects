@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Analytics (Control Flow Project)
+# 🛒 E-Commerce Analytics using Control Flow
 
 This is a small Python project where I used `if / elif / else` to analyze order values  
 and categorize customers into **Platinum, Gold, Silver, Bronze, and Low Value** segments.  
